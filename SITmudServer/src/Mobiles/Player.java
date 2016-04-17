@@ -233,7 +233,7 @@ public class Player extends MobileStd implements Mobile
 		FileWriter myFile = null;
 		
 		try{
-			myFile = new FileWriter(name + ".txt");
+			myFile = new FileWriter("./../" + name + ".txt");
 		}catch(IOException e){}
 		
 		BufferedWriter buffer = new BufferedWriter(myFile);
@@ -284,7 +284,7 @@ public class Player extends MobileStd implements Mobile
 		try 
 		{
 			
-			FileReader myReader = new FileReader(thisName + ".txt");
+			FileReader myReader = new FileReader("./../" + thisName + ".txt");
 			BufferedReader mybuffRead = new BufferedReader(myReader);
 			
 			// Load name, roomId, and Status

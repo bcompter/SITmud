@@ -55,7 +55,7 @@ public class Login implements Runnable
 		
 		try
 		{
-			FileInputStream file = new FileInputStream("UserPass.txt");
+			FileInputStream file = new FileInputStream("./../UserPass.txt");
 			InputStreamReader in = new InputStreamReader(file);
 			BufferedReader buffIn = new BufferedReader(in);
 

@@ -149,7 +149,7 @@ public class World
 	{
 		//Creates new file "thisworld.txt"
 			
-		FileWriter myFile = new FileWriter("thisworld.txt");
+		FileWriter myFile = new FileWriter("./../thisworld.txt");
 		BufferedWriter myBuff = new BufferedWriter(myFile);
 		PrintWriter buffsaveStream = new PrintWriter(myBuff);
 		buffsaveStream.println( Rooms.size() );

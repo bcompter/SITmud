@@ -11,8 +11,8 @@ import javax.swing.*;
 
 public class gameClient extends JPanel implements ActionListener {
     
-	// GUI elements
-	protected JTextField textField;
+    // GUI elements
+    protected JTextField textField;
     protected JTextArea textArea;
     protected Timer GUItimer;
     private final static String newline = "\n";
