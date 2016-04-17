@@ -1,0 +1,16 @@
+Nemesis
+6
+1
+Half-Elf
+Ranger
+169
+250
+generalItem
+sword
+A
+A sturdy blade with a double edge.
+generalItem
+shield
+A
+A standard round shield made out of wood and bound with iron trim.
+0

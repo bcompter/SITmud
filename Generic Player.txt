@@ -1,0 +1,12 @@
+Generic Player
+3
+0
+generalItem
+nothing
+
+null
+generalItem
+nothing
+
+null
+0

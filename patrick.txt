@@ -1,0 +1,16 @@
+Patrick
+0
+0
+Human
+Fighter
+200
+200
+generalItem
+nothing
+
+null
+generalItem
+nothing
+
+null
+0

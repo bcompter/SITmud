@@ -1,0 +1,16 @@
+Jeff
+0
+1
+Human
+Fighter
+200
+200
+generalItem
+tool
+A
+Just like you only with more metal.
+generalItem
+nothing
+
+null
+0

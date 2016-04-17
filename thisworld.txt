@@ -1,0 +1,257 @@
+31
+[Eldimroth, Town Center]
+This is the center of the port town of Eldimroth.  Four cobbeled roads meet at this busy intersection.  Townsfolk busy themselves with daily chores as street merchents sell their wares to all those who pass by. There is a small pile of rocks in the corner.
+0
+4
+North
+8
+South
+3
+East
+5
+West
+1
+[Eldimroth, West Road]
+This corner of the town smells of hot cinder and ore.  A haze of soot hovers in the air eminating from the Blacksmith's shop.  A few apprentices hurredly atttend to the bellows or retrieve raw materials for the furnace.  The sound of the Master's mallet strinking the anvil drowns out all other noise.
+1
+2
+South
+2
+East
+0
+[Eldimroth, South Road]
+A line of personal homes and cottages dot this section of town.  The stones in the road are cracked and unkept, seemingly covered in soot.  The townsfolk don't seem to mind, and carry on about their buisiness seemingly unaware of the dirty conditions.
+2
+2
+East
+3
+North
+1
+[Eldimroth, South Road]
+Just north lies the busy center of town.  A group of merchents set up makeshift shops and harrass anyone passing by.  Other travellers seek rest and relaxation at the DragonClaws Inn, the best place in town for food, drink, and good company.
+3
+3
+West
+2
+North
+0
+East
+4
+[Eldimroth, South Road]
+This corner of town is quieter than most sections so near the center.  As such, a host of more extravagant homes line a much neater street.  The signs of prosperity are immeadiatly visible in the dress and gait of the local redidents.
+4
+2
+West
+3
+North
+5
+[Eldimroth, East Road]
+The tall spires of the town temple rise above all other structures around it.  The frame is set in grey stone of local origin.  The same stone can be seen in the streets throughout, but these stones bear a significant difference.  They are clean and more expertly carved.  Reverent followers come to and fro, asking the gods for redemption.
+5
+3
+West
+0
+South
+4
+East
+6
+[Eldimroth, East Road]
+The smell of insence and medicinal salves lighten the air.  A humble cottage atop a small hill dots this section of town.  The town healer hurries about, breing a new potion or attending to the sick and enfeebled.
+6
+2
+North
+7
+West
+5
+[Eldimroth, Dark Alley]
+The streets of town end abruptly here.  Tightly bunched homes, all decrepid and worn, form a maze of alleys that seem to fill with shadows.
+7
+1
+South
+6
+[Eldimroth, North Road]
+The main road leading to the town center is always busy with traders and merchents pushing overlaiden carts to the markets.  The street is well worn from all the traffic.
+8
+2
+North
+9
+South
+0
+[Eldimroth, Gate]
+A pair of large gates lead into the unforgiving wilds. A pair of guards stand sentinel, blocking to way to anyone who would deal harm to the townspeople.
+9
+2
+Gate
+10
+South
+8
+[Faydark Forest, Entrance]
+You leave the comfort and safety of Eldimroth behind you and venture into Faydark Forest. A wide path leads to the north. To the east is a narrow trail. It appears no human has travelled this worn pass in a long time.
+10
+3
+North
+12
+Town
+9
+East
+16
+[Faydark Forest, Keirynin's Falls]
+Rushing water falls hundreds of feet down from the peak of Mt. Keirynin. Legend has it that Keirynin's Falls is a magical place protected by the Druids of Faydark.
+11
+1
+East
+12
+[Faydark Forest, Grazing Pasture]
+The trail opens to a beautiful pasture. The distinct sound of rushing water echoes from the west. North of the pasture the trail continues deeper into the forest.
+12
+3
+North
+13
+West
+11
+South
+10
+[Faydark Forest, Army Outpost]
+Soldiers used to occupy this outpost to prevent kobolds from advancing on Eldimroth. No soldiers remain and the outpost has been destroyed. However, it does not appear to have been the work of kobolds. To the north, the trail continues. There is no trail to the east, but the smell of meat on an open fire lingers through the trees.
+13
+3
+North
+14
+East
+15
+South
+12
+[Faydark Forest, Stone Wall]
+You come accross a magnifcent stone wall. Obviously, such a creation serves to protect something remarkable. However, you do not possess the means to advance to the other side.
+14
+1
+South
+13
+[Faydark Forest, Survivor's Campsite]
+You arrive at a campsite. It appears the occupant fled at the sound of your arrival, leaving not only his dinner but some other belongings as well. Perhaps it was a survivor from the outpost that did not wish to meet the same fate as his fellow soldiers.
+15
+1
+West
+13
+[Faydark Forest, Shrine to Thrallax]
+After struggling through the thick brush that has overgrown the path, you arrive at a shrine celebrating Thrallax the Dark. The sacrificial stone is stained with blood indicating someone has recently paid homage to the dark lord. At this point, it may be wise to turn back, but great fortune may lie to the south or east.
+16
+3
+West
+10
+East
+17
+South
+18
+[Faydark Forest, Deep in the Woods]
+You have been traveling for some time now and all of the trees are beginning to look alike. From here, you can either travel back west or press on to the south.
+17
+2
+West
+16
+South
+19
+[Faydark Forest, Barren Wastelands]
+It is difficult to believe that you are actually still in Faydark Forest. The trees are now completely barren and there is no sign of life whatsoever. Perhaps, there will be a sign of life to the east.
+18
+2
+North
+16
+East
+19
+[Faydark Forest, No sign of Nature]
+Whatever force destroyed this once lavish area of the forest must be very powerful. Though your eyes may be deceiving you, to the north you see signs that nature may still remain. However, if you were to travel south, you may discover what force caused such a radical change to the forest.
+19
+3
+North
+17
+West
+18
+South
+20
+[Faydark Forest, Nothing Here]
+You were certain that you would find the party responsible for the destruction of the forest, however the trail does not continue in any direction. You are about to leave and notice what may be an entrance to a cave.
+20
+2
+North
+19
+Cave
+21
+[Wailing Caverns, Entrance]
+As your eyes adjust to the light change, you can see a narrow stretch leading down into the depths of the cave. The brightness of Faydark Forest can be seen through the cave exit to the west. The smell of rotting corpses fills the air. The path that leads north down into darkness appears dangerous but may lead to the source of the damage to the forest. 
+21
+2
+West
+20
+North
+22
+[Wailing Caverns, Narrow Path]
+The path is extremely narrow and you barely fit through. Your only options here are to continue in the direction you were headed or turn back.
+22
+2
+North
+24
+South
+21
+[Wailing Caverns, Evil Shrine]
+This room is filled with an evil energy. There is soft hum eminating from the back wall where a large flat stone sits. This stone emits a green glow which reveals the exits of the room. you hear something slithering to the west and hear wind comming from the east.
+24
+3
+South
+22
+West
+23
+East
+25
+[Wailing Caverns, Snake Den]
+It is obvious now why you heard the slithering from the Shrine. Snakes are everywhere! All over the walls, wraped around the torches, everywhere. The Snake King sits in a striking position ready to attack. It may be wise to turn back. 
+23
+1
+East
+24
+[Wailing Caverns, Bridge Room]
+You enter the room and before you is a massive network of bridges leading in all directions. Wind howls around you from the depths below. You pick up a rock and drop it down to listen until it hits the bottom but no sound returns. It would not be safe to fall off these bridges. To the north is a dark stairwell. To the South is a dry room full of rocks. you hear laughter coming from the East.
+25
+4
+North
+26
+South
+29
+East
+28
+West
+24
+[Wailing Caverns, The Dark Stair]
+The stairs are before you now. A sign written in blood that reads "BEWARE OF DRAGON!" The dragons layer is to the north... if you dare!
+26
+2
+North
+27
+South
+25
+[Wailing Caverns, Healing Shrine]
+The laughing you heard from the previous room becomes apparent. A wood elf greets you and casts a healing spell which restores you to full health.
+28
+1
+West
+25
+[Wailing Caverns, Rock Room]
+This room is very boring. All there is to do here is move rocks around.
+29
+2
+North
+25
+Rocks
+30
+[Hidden Room, Portal]
+As you moved the rocks around the floor fell out from beneath you. There is no possible way to get back to the Rock Room. The only thing distinguishable about this room is a glowing portal that sits in the corner of the room. You throw a rock through it and it disappears. 
+30
+1
+Portal
+0
+[Dragon's Lair!]
+You enter the room. You lock eyes with the dragon. The battle ensues.
+27
+1
+Opening
+26

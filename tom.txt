@@ -1,0 +1,16 @@
+Tom
+0
+1
+Human
+Fighter
+250
+250
+generalItem
+nothing
+
+null
+generalItem
+nothing
+
+null
+0
