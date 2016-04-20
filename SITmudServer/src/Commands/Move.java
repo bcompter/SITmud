@@ -1,8 +1,7 @@
-package mudServer.Commands;
+package Commands;
 
 import mudServer.Room;
-import mudServer.Mobiles.*;
-import mudServer.*;
+import Mobiles.*;
 
 /**
  * Moves the player from his current room along a path to an adjoining room.

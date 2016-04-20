@@ -3,8 +3,8 @@ package mudServer;
 import java.util.ArrayList;
 import java.io.*;
 
-import mudServer.Items.*;
-import mudServer.Mobiles.*;
+import Items.*;
+import Mobiles.*;
 import java.util.Random;
 
 /**

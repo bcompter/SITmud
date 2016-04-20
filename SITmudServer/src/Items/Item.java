@@ -1,4 +1,4 @@
-package mudServer.Items;
+package Items;
 
 import java.io.*;
 
@@ -9,19 +9,17 @@ import java.io.*;
  * implemented by extending ItemStd.
  * All methods whose implementation is dependant on each new class 
  * of item are defined here, but implemented in the specific class.
- * @author Nemesis
- *
  */
 public interface Item 
 {
-	// Methods whose implementation is included in ItemStd
-	public String nameToString();
-	public String fullnameToString();
-	public String lookAtItem();
-	public boolean isValid();
-	
-	// Methods whose implementation depends on the child class	
-	public boolean isContainer();
-	public void saveItem(PrintWriter buffWriter);
+    // Methods whose implementation is included in ItemStd
+    public String nameToString();
+    public String fullnameToString();
+    public String lookAtItem();
+    public boolean isValid();
+
+    // Methods whose implementation depends on the child class	
+    public boolean isContainer();
+    public void saveItem(PrintWriter buffWriter);
 	
 } // End Item

@@ -1,8 +1,8 @@
-package mudServer.Commands.Status;
+package Commands.Status;
 
 import mudServer.Room;
-import mudServer.Commands.Command;
-import mudServer.Mobiles.*;
+import Commands.*;
+import Mobiles.*;
 import mudServer.*;
 
 /**

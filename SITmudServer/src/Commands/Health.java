@@ -1,6 +1,6 @@
-package mudServer.Commands;
+package Commands;
 
-import mudServer.Mobiles.*;
+import Mobiles.*;
 
 /**
  * Reports total hitpoint to the player.

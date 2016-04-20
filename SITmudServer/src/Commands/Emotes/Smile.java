@@ -1,9 +1,8 @@
-package mudServer.Commands.Emotes;
+package Commands.Emotes;
 
 import mudServer.Room;
-import mudServer.Commands.Command;
-import mudServer.Mobiles.*;
-import mudServer.*;
+import Commands.Command;
+import Mobiles.*;
 
 /**
  * Allows a player to Smile

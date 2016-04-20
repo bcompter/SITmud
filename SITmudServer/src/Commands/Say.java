@@ -1,8 +1,7 @@
-package mudServer.Commands;
+package Commands;
 
 import mudServer.Room;
-import mudServer.*;
-import mudServer.Mobiles.*;
+import Mobiles.*;
 
 /**
  * Allows the player to talk.

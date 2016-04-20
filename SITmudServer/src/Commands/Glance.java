@@ -1,6 +1,6 @@
-package mudServer.Commands;
+package Commands;
 
-import mudServer.Mobiles.*;
+import Mobiles.*;
 
 /**
  * Displays the content of the players hands.

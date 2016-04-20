@@ -1,7 +1,7 @@
-package mudServer.Commands;
+package Commands;
 
-import mudServer.Commands.Emotes.*;
-import mudServer.Commands.Status.*;
+import Commands.Emotes.*;
+import Commands.Status.*;
 
 
 /**

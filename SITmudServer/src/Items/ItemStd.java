@@ -1,4 +1,4 @@
-package mudServer.Items;
+package Items;
 
 /**
  * ItemStd sets data members common to all Items.  It also Defines and implements 

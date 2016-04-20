@@ -1,9 +1,8 @@
-package mudServer.Commands.Emotes;
+package Commands.Emotes;
 
 import mudServer.Room;
-import mudServer.Mobiles.*;
-import mudServer.*;
-import mudServer.Commands.Command;
+import Mobiles.*;
+import Commands.Command;
 
 /**
  * Allows a player to poins

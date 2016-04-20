@@ -1,4 +1,5 @@
-package mudServer.Items;
+package Items;
+
 import java.io.PrintWriter;
 import java.util.ArrayList;
 

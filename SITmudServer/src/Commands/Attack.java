@@ -1,10 +1,10 @@
-package mudServer.Commands;
+package Commands;
 
 import mudServer.Room;
 import java.util.Random;
-import mudServer.Mobiles.Mobile;
-import mudServer.Mobiles.Player;
-import mudServer.*;
+import Mobiles.Mobile;
+import Mobiles.Player;
+
 /**
  * This allows a player to attack a target
  * The command checks if the argument is a target and does checks against

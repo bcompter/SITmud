@@ -1,15 +1,12 @@
-package mudServer.Commands;
+package Commands;
 
 import mudServer.Room;
-import mudServer.Mobiles.*;
-import mudServer.Items.*;
-import mudServer.*;
+import Mobiles.*;
+import Items.*;
 
 /**
  * Gets an item from the room and puts it into
  * the players hands.
- * @author Nemesis
- *
  */
 public class Get implements Command
 {

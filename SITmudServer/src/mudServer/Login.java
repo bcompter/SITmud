@@ -2,7 +2,7 @@ package mudServer;
 
 import java.io.*;
 import java.util.*;
-import mudServer.Mobiles.*;
+import Mobiles.*;
 
 /**
  * Verify a connected user's name and password.  
@@ -144,7 +144,7 @@ public class Login implements Runnable
 	
 	/**
 	 * Constructor.  Create a login thread with the given information.
-	 * @param thisServer A referenc to the game server.
+	 * @param thisServer A reference to the game server.
 	 * @param thisPlayer A blank player with  a connected socket only.
 	 */
 	public Login(GameServer thisServer, Mobile thisPlayer)

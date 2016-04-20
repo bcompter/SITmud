@@ -1,7 +1,7 @@
-package mudServer.Mobiles;
+package Mobiles;
 
 import mudServer.Room;
-import mudServer.Items.Item;
+import Items.Item;
 
 /**
  * Defines methods for which all Mobiles must implement.

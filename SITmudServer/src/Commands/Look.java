@@ -1,9 +1,8 @@
-package mudServer.Commands;
+package Commands;
 
 import mudServer.Room;
-import mudServer.Mobiles.*;
-import mudServer.*;
-import mudServer.Items.*;
+import Mobiles.*;
+import Items.*;
 
 /**
  * Provides a description of an item or room.

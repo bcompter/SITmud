@@ -2,8 +2,8 @@ package mudServer;
 
 import java.util.ArrayList;
 import java.net.*;
-import mudServer.Commands.*;
-import mudServer.Mobiles.*;
+import Commands.*;
+import Mobiles.*;
 
 /**
  * The GameServer accepts new connections from ServerMain and logs them into the 

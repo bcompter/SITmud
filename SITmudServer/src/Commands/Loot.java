@@ -1,8 +1,8 @@
-package mudServer.Commands;
+package Commands;
 
 import mudServer.Room;
-import mudServer.Mobiles.Mobile;
-import mudServer.Mobiles.Player;
+import Mobiles.Mobile;
+import Mobiles.Player;
 
 /**
  * Removes a body from the game world.

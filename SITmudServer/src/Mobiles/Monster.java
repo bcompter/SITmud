@@ -1,8 +1,8 @@
-package mudServer.Mobiles;
+package Mobiles;
 
 import mudServer.Room;
 import mudServer.*;
-import mudServer.Commands.*;
+import Commands.*;
 import java.util.Timer;
 import java.util.TimerTask;
 import java.util.Random;

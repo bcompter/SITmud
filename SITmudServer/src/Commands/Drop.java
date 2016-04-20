@@ -1,9 +1,8 @@
-package mudServer.Commands;
+package Commands;
 
 import mudServer.Room;
-import mudServer.*;
-import mudServer.Items.*;
-import mudServer.Mobiles.*;
+import Items.*;
+import Mobiles.*;
 
 /**
  * Drops an item to the ground.  

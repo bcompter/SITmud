@@ -1,6 +1,6 @@
-package mudServer.Commands;
+package Commands;
 
-import mudServer.Mobiles.*;
+import Mobiles.*;
 
 /**
  * Command will encapsulate all player driven actions.

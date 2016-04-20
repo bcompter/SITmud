@@ -1,19 +1,14 @@
-package mudServer.Commands.Status;
+package Commands.Status;
 
 import mudServer.Room;
-import mudServer.Commands.Command;
-import mudServer.Mobiles.*;
-import mudServer.*;
+import Commands.Command;
+import Mobiles.*;
 
 /**
  * Allows a player to sit
  * The String following the sit command is displayed
  * to all users in the room.
- * @author Nemesis
- *
  */
-
-
 public class Sit implements Command
 {
 	public void execute(Mobile thisMobile, String args)

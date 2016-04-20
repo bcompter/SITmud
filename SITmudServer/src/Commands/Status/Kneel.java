@@ -1,9 +1,8 @@
-package mudServer.Commands.Status;
+package Commands.Status;
 
 import mudServer.Room;
-import mudServer.Commands.Command;
-import mudServer.Mobiles.*;
-import mudServer.*;
+import Commands.Command;
+import Mobiles.*;
 
 /**
  * Allows a player to kneel
