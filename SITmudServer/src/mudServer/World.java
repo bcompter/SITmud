@@ -38,6 +38,9 @@ public class World
 		
 		Item itemA = new generalItem("Salmon", "It's large and wet.  It doesn't smell good either.", "a");
 		((Room)Rooms.get(0)).addItem(itemA);
+                
+                itemA = new Weapon("Broadsword", 25, "A sturdy blade with a double edge.", "a");
+		((Room)Rooms.get(0)).addItem(itemA);
 		
 		itemA = new generalItem("Shield", "A standard round shield made out of wood and bound with iron trim.", "a");
 		((Room)Rooms.get(0)).addItem(itemA);

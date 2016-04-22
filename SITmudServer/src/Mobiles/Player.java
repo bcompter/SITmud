@@ -22,11 +22,6 @@ public class Player extends MobileStd implements Mobile
     private String race;
     private String title;
 
-    private int strength;
-    private int dexterity;
-    private int agility;
-    private int constitution;
-
     // -------------------------------------------------------------------------
     // Network Members
     // -------------------------------------------------------------------------
@@ -306,7 +301,9 @@ public class Player extends MobileStd implements Mobile
 
             // Load right and left hands
 
-            // Load all other items			
+            // Load all other items	
+            
+            this.dexterity = 25;
 
         }	
         catch(IOException e){}

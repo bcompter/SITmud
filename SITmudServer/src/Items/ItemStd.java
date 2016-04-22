@@ -58,5 +58,23 @@ public abstract class ItemStd
 		else
 			return true;
 	}
+        
+        /**
+        * Always returns false for general items
+        * @return False always
+        */
+       public boolean isContainer()
+       {
+           return false;
+       }
+        
+        /**
+         * 
+         * @return 
+         */
+        public boolean isWeapon()
+        {
+            return false;
+        }
 	
 } // end ItemStd

@@ -20,6 +20,7 @@ public interface Item
 
     // Methods whose implementation depends on the child class	
     public boolean isContainer();
+    public boolean isWeapon();
     public void saveItem(PrintWriter buffWriter);
 	
 } // End Item

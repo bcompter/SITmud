@@ -2,8 +2,13 @@ package Items;
 
 import java.io.PrintWriter;
 
-public class generalItem extends ItemStd implements Item 
+public class Weapon extends ItemStd implements Item 
 {
+    // -------------------------------------------------------------------------
+    // Members
+    // -------------------------------------------------------------------------
+    int attackStrength = 25;
+    
     // -------------------------------------------------------------------------
     // Constructors
     // -------------------------------------------------------------------------
@@ -14,18 +19,19 @@ public class generalItem extends ItemStd implements Item
      * @param newName The item name.
      * @param newDesc The item description.
      */
-    public generalItem(String newName, String newDesc, String newArticle)
+    public Weapon(String newName, int as, String newDesc, String newArticle)
     {
         Name = newName.toLowerCase();
         Description = newDesc;
         Article = newArticle.toUpperCase();
+        attackStrength = as;
     }
 
     /**
      * Default Constructor.  Used by Player.
      * The name "nothing" signifies a non-existant item.
      */
-    public generalItem()
+    public Weapon()
     {
         Name = "nothing";
         Article = "";
@@ -34,7 +40,25 @@ public class generalItem extends ItemStd implements Item
     // -------------------------------------------------------------------------
     // Methods
     // -------------------------------------------------------------------------
+
+    /**
+     * 
+     * @return 
+     */
+    public int GetAttackStrength()
+    {
+        return attackStrength;
+    }
     
+    /**
+     * 
+     * @return 
+     */
+    public boolean isWeapon()
+    {
+        return true;
+    }
+
     /**
      * Saves an item to a file.
      */

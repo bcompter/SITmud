@@ -17,6 +17,12 @@ public abstract class MobileStd
     // Members common to all mobiles
     // -------------------------------------------------------------------------
     protected String name;
+    
+    protected int strength;
+    protected int dexterity;
+    protected int agility;
+    protected int constitution;
+    
     protected Room myRoom;
     protected int myRoomId;
     protected int status;
@@ -195,7 +201,19 @@ public abstract class MobileStd
      */
     public int calcAS()
     {
-        return 100;
+        if (rightHand.isWeapon())
+        {
+            int as = 0;
+            as += this.dexterity;
+            as += ((Weapon)rightHand).GetAttackStrength();
+            return as;
+        }
+        else
+        {
+            int as = 0;
+            as += this.dexterity;
+            return as;
+        }
     }
 
     /**
@@ -204,7 +222,9 @@ public abstract class MobileStd
      */
     public int calcDS()
     {
-        return 50;
+        int ds = 0;
+        ds += this.agility;
+        return ds;
     }
 
     /**
